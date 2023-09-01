@@ -1,0 +1,65 @@
+
+header{
+    width: 100%;
+    height: 275px;
+    background-image: url(header.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.profile h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+main {
+    margin: 0% auto;
+    height: auto;
+    display: flex;
+}
+
+.text-area{
+    width: 70%;
+    height: auto;
+}
+
+.side-area{
+    width: 15%;
+    height: auto;
+    background-image: url(side.jpg);
+    background-size: cover;
+}
+
+.profile-image{
+    margin: auto;
+    display: block;
+    width: 150px;
+    height: 150px;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+}
+
+.box a{
+    text-align: center;
+}
+
+
+.box {
+    margin-bottom: 20px;
+}
+.box .title {
+    font-size: 1.2em;
+    padding: 4px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    font-family: "Bell MT";
+}
+.box p {
+    padding-top: 1px;
+}
+
